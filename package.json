@@ -8,8 +8,17 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
+    "express": "^4.21.2",
     "git": "^0.1.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AR18NOW/BookLendingSystem.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AR18NOW/BookLendingSystem/issues"
+  },
+  "homepage": "https://github.com/AR18NOW/BookLendingSystem#readme",
+  "description": ""
 }
